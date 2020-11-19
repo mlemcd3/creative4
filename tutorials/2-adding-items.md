@@ -264,7 +264,7 @@ file.
 
 ## Back End -- creating items
 
-Add the following to `server.js` in the back end:
+Add the following to `server.js` in the back end after the "connect to the database" section:
 
 ```javascript
 // Create a new item in the museum: takes a title and a path to an image.
