@@ -1,13 +1,8 @@
 <template>
 <div id="app">
   <div class="header">
-    <router-link to="/">
-      <div class="logo">
-        <img src="/ordinary.png">
-      </div>
-    </router-link>
-    <div class="title">
-      <h1>Museum of Ordinary Objects</h1>
+   <div class="title">
+      <h1>desert website</h1>
     </div>
   </div>
   <div class="content">
